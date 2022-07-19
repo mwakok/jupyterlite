@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-19T20:22:59.852973Z",
+      "format": null,
+      "last_modified": "2022-07-19T20:21:43.905385Z",
+      "mimetype": null,
+      "name": "python_part_1.ipynb",
+      "path": "swc/python_part_1.ipynb",
+      "size": 74392,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-19T20:22:59.848973Z",
+      "format": null,
+      "last_modified": "2022-07-19T20:22:59.848973Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "swc/data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-19T20:22:59.848973Z",
+      "format": null,
+      "last_modified": "2022-07-19T20:21:43.901379Z",
+      "mimetype": null,
+      "name": "inflammation_analysis_refactored.ipynb",
+      "path": "swc/inflammation_analysis_refactored.ipynb",
+      "size": 78932,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-19T20:22:59.852973Z",
+      "format": null,
+      "last_modified": "2022-07-19T20:21:43.905385Z",
+      "mimetype": null,
+      "name": "python_part_2.ipynb",
+      "path": "swc/python_part_2.ipynb",
+      "size": 34526,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-19T20:22:59.848973Z",
+      "format": null,
+      "last_modified": "2022-07-19T20:21:43.901379Z",
+      "mimetype": null,
+      "name": "inflammation_analysis.ipynb",
+      "path": "swc/inflammation_analysis.ipynb",
+      "size": 184511,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-19T20:22:59.848973Z",
+      "format": null,
+      "last_modified": "2022-07-19T20:21:43.901379Z",
+      "mimetype": "text/x-python",
+      "name": "processing.py",
+      "path": "swc/processing.py",
+      "size": 1077,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-19T20:22:59.852973Z",
+  "format": "json",
+  "last_modified": "2022-07-19T20:22:59.852973Z",
+  "mimetype": null,
+  "name": "swc",
+  "path": "swc",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
